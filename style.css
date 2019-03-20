@@ -1,3 +1,11 @@
 h1 {
   color: red;
-  } 
+  }
+div.carousel-slide
+  {
+    height: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
