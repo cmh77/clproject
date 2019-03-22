@@ -1,3 +1,15 @@
-h1 {
-  color: red;
-  } 
+#left{
+  position: static;
+  top: 90px;
+  align-items: space-around;
+  align-items: space-between;
+  padding-left: 20%;
+  padding-top: 10%;
+}
+#right{
+  position: static;
+  top: 90px;
+  align-items: space-between;
+  align-items: space-around;
+  padding-bottom: 10%;
+}
