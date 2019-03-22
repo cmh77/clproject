@@ -1,6 +1,3 @@
-h1 {
-  color: red;
-  }
 div.carousel-slide
   {
     height: 200px;
@@ -9,7 +6,3 @@ div.carousel-slide
     padding-left: 0px;
     padding-right: 0px;
   }
-img.d-block w-100
-{
-  height: 20px;
-}
