@@ -1,6 +1,6 @@
 
 html {
-  background-color: rgb(187, 151, 104)
+  background-color: rgb(255, 248, 220)
 }
 #left{
   position: static;
@@ -8,12 +8,12 @@ html {
   align-items: space-around;
   align-items: space-between;
   padding-left: 20%;
-  padding-top: 10%;
+  padding-top: 20%;
 }
 #right{
   position: static;
   top: 90px;
   align-items: space-between;
   align-items: space-around;
-  padding-bottom: 10%;
+  padding-bottom: 20%;
 }
