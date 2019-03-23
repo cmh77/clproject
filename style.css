@@ -8,12 +8,15 @@ html {
   align-items: space-around;
   align-items: space-between;
   padding-left: 20%;
-  padding-top: 20%;
+  padding-top: 15%;
 }
+
 #right{
   position: static;
   top: 90px;
   align-items: space-between;
   align-items: space-around;
-  padding-bottom: 20%;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-bottom: 5%;
 }
