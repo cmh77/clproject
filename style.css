@@ -1,3 +1,13 @@
+body
+{
+  background-color:black;
+  text-align:center;
+  font-family: arial;
+}
+h1
+{
+  color:white;
+}
 div.carousel-slide
   {
     height: 200px;
@@ -6,3 +16,14 @@ div.carousel-slide
     padding-left: 0px;
     padding-right: 0px;
   }
+div.news-letter
+{
+  color:white;
+  text-align:center;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+div.button-group
+{
+  padding-top: 10px;
+}
