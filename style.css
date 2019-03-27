@@ -69,4 +69,8 @@ h6{
 }
 img{
   padding-bottom: 5px;
+  padding-top: 10px;
+}
+div#carouselExampleControls {
+  padding-bottom: 30px;
 }
