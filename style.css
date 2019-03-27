@@ -26,46 +26,47 @@ div.news-letter
 div.button-group
 {
   padding-top: 10px;
-
-#left{
-  position: static;
-  top: 90px;
-  align-items: space-around;
-  align-items: space-between;
-  padding-left: 20%;
-  padding-top: 15%;
+  text-align:center;
+  align-items: center;
+  align-self: center;
+  align-content: center;
 }
 
-#right{
-  position: static;
-  top: 90px;
-  align-items: space-between;
-  align-items: space-around;
-  padding-left: 10%;
-  padding-top: 10%;
-  padding-bottom: 2%;
-}
 h2{
   font-size: 30px;
   font-family:fantasy;
   font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 h3{
   font-size: 30px;
   font-family:fantasy;
   font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 h4{
   font-size: 30px;
   font-family:fantasy;
   font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 h5{
   font-size: 29px;
   font-family:fantasy;
   font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 15px;
 }
 h6{
   font-size: 29px;
   font-family:fantasy;
   font-style: italic;
+  padding-top: 5px;
+  padding-bottom: 15px;
+}
+img{
+  padding-bottom: 5px;
+}
