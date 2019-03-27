@@ -1,12 +1,12 @@
-body
-{
-  background-color:black;
+body{
+  background-color: rgb(255, 248, 220)
   text-align:center;
   font-family: arial;
 }
 h1
 {
-  color:white;
+  color:black;
+  text-align:center;
 }
 div.carousel-slide
   {
@@ -18,7 +18,7 @@ div.carousel-slide
   }
 div.news-letter
 {
-  color:white;
+  color:black;
   text-align:center;
   padding-left: 500px;
   padding-right: 500px;
@@ -26,4 +26,46 @@ div.news-letter
 div.button-group
 {
   padding-top: 10px;
+
+#left{
+  position: static;
+  top: 90px;
+  align-items: space-around;
+  align-items: space-between;
+  padding-left: 20%;
+  padding-top: 15%;
 }
+
+#right{
+  position: static;
+  top: 90px;
+  align-items: space-between;
+  align-items: space-around;
+  padding-left: 10%;
+  padding-top: 10%;
+  padding-bottom: 2%;
+}
+h2{
+  font-size: 30px;
+  font-family:fantasy;
+  font-style: italic;
+}
+h3{
+  font-size: 30px;
+  font-family:fantasy;
+  font-style: italic;
+}
+h4{
+  font-size: 30px;
+  font-family:fantasy;
+  font-style: italic;
+}
+h5{
+  font-size: 29px;
+  font-family:fantasy;
+  font-style: italic;
+}
+h6{
+  font-size: 29px;
+  font-family:fantasy;
+  font-style: italic;
