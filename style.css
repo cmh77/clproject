@@ -1,7 +1,30 @@
-
-html {
+body{
   background-color: rgb(255, 248, 220)
+  text-align:center;
+  font-family: arial;
 }
+h1
+{
+  color:black;
+}
+div.carousel-slide
+  {
+    height: 200px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+div.news-letter
+{
+  color:white;
+  text-align:center;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+div.button-group
+{
+  padding-top: 10px;
 #left{
   position: static;
   top: 90px;
@@ -44,4 +67,4 @@ h6{
   font-size: 29px;
   font-family:fantasy;
   font-style: italic;
-}
+=======
