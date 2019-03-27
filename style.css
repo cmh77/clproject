@@ -4,7 +4,6 @@ body{
 
   font-family: arial;
   align-self: baseline;
-
 }
 h1{
   color: white;
@@ -16,6 +15,15 @@ h1{
 
 div.carousel-slide{
 
+div.row
+{
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 div.row
 {
   align-items: center;
