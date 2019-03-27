@@ -1,21 +1,21 @@
 body{
-  background-color: rgb(255, 248, 220)
-  text-align:center;
-  font-family: arial;
-}
-h1
-{
-  color:black;
+  background-color: rgb(186, 155, 101);
   text-align:center;
 }
-div.carousel-slide
-  {
+h1{
+  color: white;
+  text-align:center;
+  font-family: fantasy;
+  font-style: italic;
+  font-size: 80px
+}
+div.carousel-slide{
     height: 200px;
     padding-bottom: 10px;
     padding-top: 10px;
     padding-left: 0px;
     padding-right: 0px;
-  }
+}
 div.news-letter
 {
   color:black;
