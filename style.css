@@ -1,8 +1,8 @@
 body{
-  background-color: white;
+  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwil54ar2afhAhUJrxoKHYvTAZkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fpattern&psig=AOvVaw0iLIEIjHUrhGkkcQ6Oe8m6&ust=1553960809577621");
   text-align:center;
-
-  font-family: arial;
+  font-family: Georgia, serif;
+  font-size: 20px;
   align-self: baseline;
 }
 h1{
@@ -89,37 +89,32 @@ div.button-group
 }
 
 h2{
-  font-size: 30px;
-  font-family:fantasy;
-  font-style: italic;
+  font-family: Georgia, serif;
+  font-size: 20px;
   padding-top: 5px;
   padding-bottom: 15px;
 }
 h3{
-  font-size: 30px;
-  font-family:fantasy;
-  font-style: italic;
+  font-family: Georgia, serif;
+  font-size: 20px;
   padding-top: 5px;
   padding-bottom: 15px;
 }
 h4{
-  font-size: 30px;
-  font-family:fantasy;
-  font-style: italic;
+  font-family: Georgia, serif;
+  font-size: 20px;
   padding-top: 5px;
   padding-bottom: 15px;
 }
 h5{
-  font-size: 29px;
-  font-family:fantasy;
-  font-style: italic;
+  font-family: Georgia, serif;
+  font-size: 20px;
   padding-top: 5px;
   padding-bottom: 15px;
 }
 h6{
-  font-size: 29px;
-  font-family:fantasy;
-  font-style: italic;
+  font-family: Georgia, serif;
+  font-size: 20px;
   padding-top: 5px;
   padding-bottom: 15px;
 }
