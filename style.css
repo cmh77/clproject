@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi14LKp46fhAhUS3xoKHW-wAYkQjRx6BAgBEAU&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fmarble&psig=AOvVaw2-Jsng7eXM0w5V9v-kVuV9&ust=1553963490466754");
+  background-image: url(https://img.freepik.com/free-photo/white-marble-texture-with-natural-pattern-background-design-art-work_24076-186.jpg?size=626&ext=jpg);
   text-align:center;
   font-family: Georgia, serif;
   font-size: 20px;
@@ -46,8 +46,7 @@ p{
 }
 div.carousel-slide{
 
-div.row
-{
+div.row{
   align-items: center;
   align-self: center;
   align-content: center;
