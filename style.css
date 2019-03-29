@@ -55,17 +55,7 @@ div.row
   padding-top: 20px;
   padding-bottom: 20px;
 }
-div.row
-{
-  align-items: center;
-  align-self: center;
-  align-content: center;
-  text-align: center;
-  padding-top: 20px;
-  padding-bottom: 20px;
-}
-div.carousel-slide
-  {
+div.carousel-slide{
     height: 200px;
     padding-bottom: 10px;
     padding-top: 50px;
@@ -120,4 +110,8 @@ h6{
 }
 img{
   padding-bottom: 5px;
+  padding-top: 10px;
+}
+div#carouselExampleControls {
+  padding-bottom: 30px;
 }
